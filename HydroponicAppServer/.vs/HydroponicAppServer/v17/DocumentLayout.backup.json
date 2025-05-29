@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HydroponicAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\controllers\\deviceactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:controllers\\deviceactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\models\\deviceaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:models\\deviceaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:controllers\\sensordatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\hydroponicappserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:hydroponicappserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|d:\\hydroponicappserver\\hydroponicappserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D56AF17B-50FB-40BD-B06E-A98D7F049A80}|HydroponicAppServer.csproj|solutionrelative:hydroponicappserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceActionController.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Controllers\\DeviceActionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceActionController.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Controllers\\DeviceActionController.cs*",
+              "RelativeToolTip": "Controllers\\DeviceActionController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:35:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceAction.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Models\\DeviceAction.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceAction.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Models\\DeviceAction.cs*",
+              "RelativeToolTip": "Models\\DeviceAction.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:35:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "Data\\AppDbContext.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:46:46.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "Models\\SensorData.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Models\\SensorData.cs*",
+              "RelativeToolTip": "Models\\SensorData.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:37:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Models\\User.cs*",
+              "RelativeToolTip": "Models\\User.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:33:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HydroponicAppServer.csproj",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\HydroponicAppServer.csproj",
+              "RelativeDocumentMoniker": "HydroponicAppServer.csproj",
+              "ToolTip": "D:\\HydroponicAppServer\\HydroponicAppServer.csproj",
+              "RelativeToolTip": "HydroponicAppServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T13:40:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:28:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SensorDataController.cs",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\Controllers\\SensorDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SensorDataController.cs",
+              "ToolTip": "D:\\HydroponicAppServer\\Controllers\\SensorDataController.cs",
+              "RelativeToolTip": "Controllers\\SensorDataController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:24:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HydroponicAppServer.http",
+              "DocumentMoniker": "D:\\HydroponicAppServer\\HydroponicAppServer.http",
+              "RelativeDocumentMoniker": "HydroponicAppServer.http",
+              "ToolTip": "D:\\HydroponicAppServer\\HydroponicAppServer.http",
+              "RelativeToolTip": "HydroponicAppServer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T13:01:27.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
